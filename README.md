@@ -33,4 +33,4 @@ brew uninstall --cask Geuni620/tap/deepk
 
 이 Cask는 CLI나 해당 CLI의 로그인 정보를 설치·삭제하지 않습니다.
 
-앱 파일·알려진 제한·제3자 고지는 [배포 저장소](https://github.com/Geuni620/deepk-releases)를 참고하세요. 이 저장소는 자체 Tap이며 Homebrew 공식 Cask 저장소에 등록한 것은 아닙니다.
+앱 소스·설치 파일·제3자 고지는 [deepK 저장소](https://github.com/Geuni620/deepK)와 [릴리스](https://github.com/Geuni620/deepK/releases)를 참고하세요. 이 저장소는 자체 Tap이며 Homebrew 공식 Cask 저장소에 등록한 것은 아닙니다.
