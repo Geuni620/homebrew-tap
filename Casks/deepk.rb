@@ -8,7 +8,7 @@ cask "deepk" do
   homepage "https://github.com/Geuni620/deepk-releases"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "DeepK.app"
 
