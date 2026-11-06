@@ -1,8 +1,8 @@
 cask "deepk" do
-  version "0.1.1"
-  sha256 "602b76e1f9cb40ae1dbe6674733eb4b28c508da51fbd1b8fa3db09f4b78b249f"
+  version "0.2.0"
+  sha256 "21cb2b52f677e8d01421e2c9b8fd1909aea776cad2fc4124d29e72d7201d1787"
 
-  url "https://github.com/Geuni620/deepK/releases/download/v#{version}/deepK-distribution-#{version}-arm64-9f63f81ce2b0.zip"
+  url "https://github.com/Geuni620/deepK/releases/download/v#{version}/deepK-distribution-#{version}-arm64-8ab106a271a1.zip"
   name "deepK"
   desc "Korean-English menu bar translator using locally authenticated AI tools"
   homepage "https://github.com/Geuni620/deepK"
